@@ -1,4 +1,4 @@
-||amoeba.web.roku.com^^
+|| amoeba.web.roku.com^
 || assets.sr.roku.com^
 || cloudservices.roku.com^
 || prod.mobile.roku.com^
